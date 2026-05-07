@@ -1,8 +1,11 @@
+
 # AINO Agency Image Reveal Animation
 
 A modern, high-performance web project showcasing a creative **ASCII Image Reveal Animation**, inspired by AINO Agency. The animation dynamically converts images into a grid of ASCII characters, scrambles them for a staggered effect, and finally reveals the original images underneath.
 
 This project was built with Vanilla JavaScript and HTML5 Canvas, and has recently been modernized to use **Vite** as its fast development build tool.
+
+<img width="1565" height="838" alt="Screenshot 2026-05-07 164305" src="https://github.com/user-attachments/assets/e8271cc9-9bf5-4c17-976f-cf8111b3d781" />
 
 ## ✨ Features
 
